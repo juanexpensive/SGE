@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Ejercicio_1.Models;
+using Ejercicio_1.Models.DAL;
 using Ejercicio_1.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualBasic;
@@ -41,15 +42,26 @@ namespace Ejercicio_1.Controllers
 
             ViewBag.Fecha = fecha;
 
-            return View();
+            return View(persona);
         }
 
         public IActionResult Privacy()
         {
             return View();
         }
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+
+        public IActionResult listadoPersonas()
+        {
+            List<clsPersona> personas = clsListadoPersonas.getListadoCompletoPersonas();
+            return View(personas);
+        }
+
+        public IActionResult listadoPersonaTercera()
+        {
+            clsPersona personas = clsListadoPersonas.getListadoPersonaTercera();
+            return View(personas);
+        }
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
