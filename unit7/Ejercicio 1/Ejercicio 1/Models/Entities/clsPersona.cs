@@ -5,6 +5,7 @@
         #region Fields (Private Backing Fields)
         private int _id;
         private string _nombre;
+        private int _idDepartamento;
         #endregion
 
         #region Properties
