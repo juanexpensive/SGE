@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\unit7",
+    "\\unit7\\Ejercicio 1",
+    "\\unit7\\Ejercicio 1\\Ejercicio 1",
+    "\\unit7\\Ejercicio 1\\Ejercicio 1\\Controllers",
+    "\\unit7\\Ejercicio 1\\Ejercicio 1\\Models",
+    "\\unit7\\Ejercicio 1\\Ejercicio 1\\Models\\DAL",
+    "\\unit7\\Ejercicio 1\\Ejercicio 1\\Views",
+    "\\unit7\\Ejercicio 1\\Ejercicio 1\\Views\\Home",
+    "\\unit7\\Ejercicio 1\\Ejercicio 1\\Views\\Shared"
   ],
-  "SelectedNode": "\\Ejercicio 1.sln",
   "PreviewInSolutionExplorer": false
 }
