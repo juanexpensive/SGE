@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\UI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T12:27:57.926Z",
               "EditorCaption": ""
@@ -47,8 +51,7 @@
               "RelativeToolTip": "Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:24:19.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T13:24:19.454Z"
             },
             {
               "$type": "Document",
