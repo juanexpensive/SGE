@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B8D80BB-87C2-4CB0-8CB4-90B37EF7BA58}|UI\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8D80BB-87C2-4CB0-8CB4-90B37EF7BA58}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:27:57.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Domain\\Class1.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Class1.cs",
               "RelativeDocumentMoniker": "Data\\Class1.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Data\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:24:08.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T13:24:08.042Z"
             }
           ]
         }
