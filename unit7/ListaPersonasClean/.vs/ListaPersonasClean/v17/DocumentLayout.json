@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "D:\\GitHub\\SGE\\unit7\\ListaPersonasClean\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{2B8D80BB-87C2-4CB0-8CB4-90B37EF7BA58}|UI\\UI.csproj|d:\\github\\sge\\unit7\\listapersonasclean\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B8D80BB-87C2-4CB0-8CB4-90B37EF7BA58}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,6 +50,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{595489EC-197D-44B1-8AA1-FF95DE0E2571}|CompositionRoot\\CompositionRoot.csproj|d:\\github\\sge\\unit7\\listapersonasclean\\compositionroot\\compositionroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{595489EC-197D-44B1-8AA1-FF95DE0E2571}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\compositionroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+=======
+      "AbsoluteMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C641A846-BF2F-46DB-A665-4D3F617BBFA6}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D80BB-87C2-4CB0-8CB4-90B37EF7BA58}|UI\\UI.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8D80BB-87C2-4CB0-8CB4-90B37EF7BA58}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit7\\listapersonasclean\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F08CF69-F851-449A-80CD-26F68B293C0E}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +71,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 11,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,6 +83,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 2,
               "Title": "PeopleRepository100.cs",
               "DocumentMoniker": "D:\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Repositories\\PeopleRepository100.cs",
@@ -197,6 +215,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 1,
+>>>>>>> Stashed changes
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\GitHub\\SGE\\unit7\\ListaPersonasClean\\UI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
@@ -209,6 +230,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 11,
               "Title": "CompositionRoot",
               "DocumentMoniker": "D:\\GitHub\\SGE\\unit7\\ListaPersonasClean\\CompositionRoot\\CompositionRoot.csproj",
@@ -218,6 +240,29 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-04T17:02:36.742Z",
+=======
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:24:19.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\ListaPersonasClean\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:24:08.042Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             }
           ]

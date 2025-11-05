@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\GitHub\\SGE\\unit8\\Formulario\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|d:\\github\\sge\\unit8\\formulario\\formulario\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+=======
+      "AbsoluteMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit8\\formulario\\formulario\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|solutionrelative:formulario\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|c:\\users\\juan.caro\\documents\\github\\sge\\unit8\\formulario\\formulario\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|solutionrelative:formulario\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -17,10 +25,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|d:\\github\\sge\\unit8\\formulario\\formulario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|solutionrelative:formulario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< Updated upstream
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|d:\\github\\sge\\unit8\\formulario\\formulario\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B18559B-4485-4347-B8AB-05CFE9AB4947}|Formulario\\Formulario.csproj|solutionrelative:formulario\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +49,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Formulario\\Views\\Home\\Privacy.cshtml",
@@ -50,7 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Saludo.cshtml",
               "DocumentMoniker": "D:\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Views\\Home\\Saludo.cshtml",
               "RelativeDocumentMoniker": "Formulario\\Views\\Home\\Saludo.cshtml",
@@ -63,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Formulario\\Controllers\\HomeController.cs",
@@ -75,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Formulario\\Views\\Home\\Index.cshtml",
@@ -87,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Formulario\\Models\\Person.cs",
               "ToolTip": "D:\\GitHub\\SGE\\unit8\\Formulario\\Formulario\\Models\\Person.cs",
               "RelativeToolTip": "Formulario\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T13:08:05.488Z"
             }

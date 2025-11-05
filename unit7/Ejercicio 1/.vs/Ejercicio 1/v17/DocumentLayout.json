@@ -42,8 +42,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -136,7 +140,7 @@
               "RelativeDocumentMoniker": "Ejercicio 1\\Models\\Entities\\clsPersona.cs",
               "ToolTip": "C:\\Users\\juan.caro\\Documents\\GitHub\\SGE\\unit7\\Ejercicio 1\\Ejercicio 1\\Models\\Entities\\clsPersona.cs",
               "RelativeToolTip": "Ejercicio 1\\Models\\Entities\\clsPersona.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wBQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T12:05:33.68Z",
               "EditorCaption": ""
